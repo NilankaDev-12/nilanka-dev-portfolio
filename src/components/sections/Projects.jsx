@@ -17,14 +17,13 @@ const Projects = () => {
           hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all
           "
             >
-              <h3 className="text-xl font-bold mb-2">Todo App</h3>
+              <h3 className="text-xl font-bold mb-2">Multi-Tasking App</h3>
               <p className="text-gray-400 mb-3">
-                A responsive ToDo app (React) that saves tasks in localStorage
-                so they persist even after a page refresh.
+                A responsive ToDo and Expense Manager app built with React and Express that manages data from a backend server (Render), ensuring persistence even after page refresh. Authentication may take a few seconds to load.
               </p>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://nilanka-todo-app.netlify.app/"
+                  href="https://nilanka-multi-tasking.netlify.app//"
                   target="_blank"
                   className="text-blue-400 hover:text-blue-300 transition-colors"
                 >
@@ -38,15 +37,14 @@ const Projects = () => {
           "
             >
               <h3 className="text-xl font-bold mb-2">
-                Random Password Genertor
+                Music App
               </h3>
               <p className="text-gray-400 mb-3">
-                A responsive random password generator (React) that helps to
-                create strong password of given length.
+                A beginner level music app
               </p>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://nilanka-random-password-generator.netlify.app/"
+                  href="https://nilanka-music-app.netlify.app/"
                   target="_blank"
                   className="text-blue-400 hover:text-blue-300 transition-colors"
                 >
