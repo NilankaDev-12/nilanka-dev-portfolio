@@ -17,13 +17,17 @@ const Projects = () => {
           hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all
           "
             >
-              <h3 className="text-xl font-bold mb-2">Multi-Tasking App</h3>
+              <h3 className="text-xl font-bold mb-2">Luminary</h3>
               <p className="text-gray-400 mb-3">
-                A responsive ToDo and Expense Manager app built with React and Express that manages data from a backend server (Render), ensuring persistence even after page refresh. Authentication may take a few seconds to load.
+                A modern social media application featuring nested comments for
+                structured discussions, an interactive like system for
+                engagement, and real-time chat for instant communication. The
+                platform focuses on creating a seamless and dynamic user
+                experience by combining content sharing with live interaction.
               </p>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://nilanka-multi-tasking.netlify.app//"
+                  href="https://luminary-nilanka.vercel.app/"
                   target="_blank"
                   className="text-blue-400 hover:text-blue-300 transition-colors"
                 >
@@ -36,15 +40,16 @@ const Projects = () => {
           hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all
           "
             >
-              <h3 className="text-xl font-bold mb-2">
-                Music App
-              </h3>
+              <h3 className="text-xl font-bold mb-2">Multi-Tasking App</h3>
               <p className="text-gray-400 mb-3">
-                A beginner level music app
+                A responsive ToDo and Expense Manager app built with React and
+                Express that manages data from a backend server (Render),
+                ensuring persistence and consistency. Authentication may take a
+                few seconds to load.
               </p>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://nilanka-music-app.netlify.app/"
+                  href="https://nilanka-multi-tasking.netlify.app//"
                   target="_blank"
                   className="text-blue-400 hover:text-blue-300 transition-colors"
                 >

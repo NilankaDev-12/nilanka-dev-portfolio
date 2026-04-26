@@ -15,7 +15,7 @@ const Home = () => {
           <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
             Full-stack developer with hands-on experience in building web apps
             using React, Node.js, and Express. Comfortable working with SQL and
-            MongoDB, and building simple REST APIs. Always learning and
+            MongoDB, and building REST APIs. Always learning and
             improving through real-world projects.
           </p>
 
