@@ -40,16 +40,17 @@ const Projects = () => {
           hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all
           "
             >
-              <h3 className="text-xl font-bold mb-2">Multi-Tasking App</h3>
+              <h3 className="text-xl font-bold mb-2">Synetra</h3>
               <p className="text-gray-400 mb-3">
-                A responsive ToDo and Expense Manager app built with React and
-                Express that manages data from a backend server (Render),
-                ensuring persistence and consistency. Authentication may take a
-                few seconds to load.
+                A real-time collaborative document editor built with React,
+                Express, and WebSockets. It features concurrent live-editing and
+                dedicated comment threads for each document, with data
+                synchronized seamlessly through a backend server. The initial
+                WebSocket connection may take a few seconds to initialize.
               </p>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://nilanka-multi-tasking.netlify.app//"
+                  href="https://synetra-frontend.vercel.app//"
                   target="_blank"
                   className="text-blue-400 hover:text-blue-300 transition-colors"
                 >
